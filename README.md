@@ -1,3 +1,12 @@
+# as-rules-xcodeproj
+
+Ansible Messenger — генерация проектов Xcode из Bazel.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [MobileNativeFoundation/rules_xcodeproj](https://github.com/MobileNativeFoundation/rules_xcodeproj), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/158658/161647598-223361dc-030d-431a-b4fe-d92592ed5530.png" width="255">
 </p>
